@@ -1,0 +1,15 @@
+.body {
+    padding-top: 76px;
+}
+
+ul {
+    list-style: none;
+}
+
+.footer{
+    padding-top: 25px;
+    padding: 25px;
+    background-color: #310e72;
+    color: rgb(255, 255, 255);
+    height: auto;
+}
